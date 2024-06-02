@@ -14,36 +14,36 @@ Criação de um Repositório GitHub:
 
 Acesse o GitHub e crie um novo repositório com o nome "biblioteca-antiga".
 Inicialize o repositório com um arquivo README.md.
-Configuração do Projeto Local:
+### Configuração do Projeto Local:
 
 Clone o repositório para o seu computador.
 Crie a estrutura básica do site com os arquivos HTML, CSS e imagens.
-Conexão do Repositório Local com o GitHub:
+### Conexão do Repositório Local com o GitHub:
 
 Adicione os arquivos ao controle de versão do Git.
 Faça um commit com uma mensagem descritiva.
-Adição e Commit de Alterações:
+### Adição e Commit de Alterações:
 
 Adicione funcionalidades de acessibilidade ao site.
 Faça commits para cada etapa do desenvolvimento.
-Push para o Repositório Remoto:
+### Push para o Repositório Remoto:
 
 Envie as alterações para o repositório remoto no GitHub.
-Adição de Imagens ao Projeto:
+### Adição de Imagens ao Projeto:
 
 Crie uma pasta para as imagens do site.
 Adicione imagens relacionadas à biblioteca antiga ao site.
 Instruções para a Entrega
-Submissão Inicial:
+### Submissão Inicial:
 
 Publique o link do seu repositório GitHub contendo o projeto inicial.
-Submissão Final:
+### Submissão Final:
 
 Após adicionar as funcionalidades de acessibilidade e as imagens, faça um novo push para o repositório.
 Assegure-se de que seu repositório é público.
 Envie o link atualizado do seu repositório como forma de entrega da atividade.
 Entrega da Atividade
-Link do repositório GitHub contendo:
+### Link do repositório GitHub contendo:
 
 A pasta do projeto com os arquivos HTML, CSS e imagens.
 O arquivo README.md atualizado com informações sobre o projeto.
