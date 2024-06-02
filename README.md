@@ -1,15 +1,15 @@
 # Atividade Prática - Criação e Gerenciamento de um Repositório no GitHub
-Objetivo
+## Objetivo
 O objetivo desta atividade é aprender a usar o sistema de versionamento Git e a plataforma GitHub para criar um repositório, gerenciar suas versões e praticar conceitos de acessibilidade web.
 
-Materiais, Métodos e Ferramentas
+### Materiais, Métodos e Ferramentas
 Pesquisa na internet
 Conta no GitHub
 Conhecimento básico dos comandos Git
-Descrição da Atividade
+### Descrição da Atividade
 Nesta atividade, você irá praticar o uso do Git e GitHub, criando um repositório para um site fictício de uma biblioteca antiga. O site inclui um sistema de acessibilidade, permitindo ajustes para deficientes visuais e navegação pelo teclado.
 
-Atividade Prática
+### Atividade Prática
 Criação de um Repositório GitHub:
 
 Acesse o GitHub e crie um novo repositório com o nome "biblioteca-antiga".
